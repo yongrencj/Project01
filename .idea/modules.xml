@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaWbe/JavaWbe.iml" filepath="$PROJECT_DIR$/JavaWbe/JavaWbe.iml" />
       <module fileurl="file://$PROJECT_DIR$/Project01.iml" filepath="$PROJECT_DIR$/Project01.iml" />
       <module fileurl="file://$PROJECT_DIR$/StaticWeb01/StaticWeb01.iml" filepath="$PROJECT_DIR$/StaticWeb01/StaticWeb01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demomaven/demomaven.iml" filepath="$PROJECT_DIR$/demomaven/demomaven.iml" />
     </modules>
   </component>
 </project>
